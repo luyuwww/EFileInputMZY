@@ -1,0 +1,174 @@
+2015-12-04 14:03:28,080 [ERROR] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.getRecord(RecordDaoImpl.java:44) - 锟斤拷取锟斤拷锟捷硷拷录锟斤拷锟斤拷sql-----SELECT PSYSCODE FROM d_file18_0001 WHERE 
+2015-12-04 14:03:28,083 [ERROR] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.getRecord(RecordDaoImpl.java:45) - 锟斤拷取锟斤拷锟捷硷拷录锟斤拷锟斤拷ORA-00936: 缺失表达式
+
+2015-12-04 14:03:28,084 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:97) - 归档接口执行完成。
+2015-12-04 14:06:33,891 [ERROR] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.getRecord(RecordDaoImpl.java:44) - 锟斤拷取锟斤拷锟捷硷拷录锟斤拷锟斤拷sql-----SELECT PSYSCODE FROM d_file18_0001 WHERE 
+2015-12-04 14:06:34,065 [ERROR] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.getRecord(RecordDaoImpl.java:45) - 锟斤拷取锟斤拷锟捷硷拷录锟斤拷锟斤拷ORA-00936: 缺失表达式
+
+2015-12-04 14:10:50,503 [ERROR] com.ams.interfacewithoa.archive.jdbc.ConnectionManager.getConnection(ConnectionManager.java:40) - 获取数据库连接出错：Listener refused the connection with the following error:
+ORA-12519, TNS:no appropriate service handler found
+The Connection descriptor used by the client was:
+localhost:1521:orcl
+
+2015-12-04 14:10:50,506 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:97) - 归档接口执行完成。
+2015-12-04 14:12:01,903 [ERROR] com.ams.interfacewithoa.archive.jdbc.ConnectionManager.getConnection(ConnectionManager.java:40) - 获取数据库连接出错：Listener refused the connection with the following error:
+ORA-12519, TNS:no appropriate service handler found
+The Connection descriptor used by the client was:
+localhost:1521:orcl
+
+2015-12-04 14:12:01,905 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:97) - 归档接口执行完成。
+2015-12-04 14:22:55,736 [ERROR] com.ams.interfacewithoa.archive.jdbc.ConnectionManager.getConnection(ConnectionManager.java:40) - 获取数据库连接出错：Listener refused the connection with the following error:
+ORA-12519, TNS:no appropriate service handler found
+The Connection descriptor used by the client was:
+localhost:1521:orcl
+
+2015-12-04 14:22:55,739 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:97) - 归档接口执行完成。
+2015-12-04 14:26:33,169 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:86) - 归档接口执行完成。
+2015-12-04 14:38:33,224 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:87) - 归档接口执行完成。
+2015-12-04 14:43:46,485 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:90) - 归档接口执行完成。
+2015-12-04 14:47:11,628 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:91) - 归档接口执行完成。
+2015-12-04 15:29:21,236 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:82) - 归档接口执行完成。
+2015-12-04 15:34:43,037 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:84) - 归档接口执行完成。
+2015-12-04 15:35:06,898 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:84) - 归档接口执行完成。
+2015-12-04 15:35:27,758 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:84) - 归档接口执行完成。
+2015-12-04 15:37:35,490 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:84) - 归档接口执行完成。
+2015-12-04 15:38:11,642 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:84) - 归档接口执行完成。
+2015-12-04 15:46:52,797 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:84) - 归档接口执行完成。
+2015-12-04 15:47:17,458 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:84) - 归档接口执行完成。
+2015-12-04 15:49:52,906 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:85) - 归档接口执行完成。
+2015-12-04 15:50:21,927 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:85) - 归档接口执行完成。
+2015-12-04 15:52:58,885 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:85) - 归档接口执行完成。
+2015-12-04 15:55:16,777 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:86) - 归档接口执行完成。
+2015-12-04 15:59:59,734 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-04 16:03:29,191 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:84) - 归档接口执行完成。
+2015-12-04 16:04:04,681 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:84) - 归档接口执行完成。
+2015-12-04 16:15:09,252 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:84) - 归档接口执行完成。
+2015-12-04 16:16:25,307 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-04 16:16:59,624 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-04 16:17:08,623 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-04 16:17:28,307 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-04 16:17:37,734 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:82) - 归档接口执行完成。
+2015-12-04 16:22:07,422 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:86) - 归档接口执行完成。
+2015-12-04 16:24:17,724 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:88) - 归档接口执行完成。
+2015-12-04 16:25:17,044 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:88) - 归档接口执行完成。
+2015-12-04 16:39:30,348 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:89) - 归档接口执行完成。
+2015-12-04 16:44:42,705 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:90) - 归档接口执行完成。
+2015-12-04 16:47:49,877 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:92) - 归档接口执行完成。
+2015-12-04 16:48:10,429 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:92) - 归档接口执行完成。
+2015-12-04 16:48:37,408 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:94) - 归档接口执行完成。
+2015-12-04 16:49:37,309 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:94) - 归档接口执行完成。
+2015-12-04 16:51:49,229 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:94) - 归档接口执行完成。
+2015-12-04 16:52:33,786 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:93) - 归档接口执行完成。
+2015-12-04 16:53:00,534 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:94) - 归档接口执行完成。
+2015-12-04 17:15:57,975 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:94) - 归档接口执行完成。
+2015-12-04 17:17:33,580 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:94) - 归档接口执行完成。
+2015-12-04 17:17:46,582 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:94) - 归档接口执行完成。
+2015-12-04 17:18:34,010 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:94) - 归档接口执行完成。
+2015-12-04 17:19:44,802 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:94) - 归档接口执行完成。
+2015-12-04 17:22:06,566 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:95) - 归档接口执行完成。
+2015-12-04 17:30:12,730 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:96) - 归档接口执行完成。
+2015-12-04 17:31:42,195 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:101) - 归档接口执行完成。
+2015-12-07 09:58:29,990 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:103) - 归档接口执行完成。
+2015-12-07 10:03:27,860 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:103) - 归档接口执行完成。
+2015-12-07 10:11:10,302 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:103) - 归档接口执行完成。
+2015-12-07 10:13:43,069 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:103) - 归档接口执行完成。
+2015-12-07 10:22:43,334 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:105) - 归档接口执行完成。
+2015-12-07 10:39:13,215 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:108) - 归档接口执行完成。
+2015-12-07 10:41:52,454 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:103) - 归档接口执行完成。
+2015-12-07 10:43:58,778 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:103) - 归档接口执行完成。
+2015-12-09 10:05:22,001 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:105) - 归档接口执行完成。
+2015-12-09 10:05:38,065 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:105) - 归档接口执行完成。
+2015-12-09 10:06:45,402 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:105) - 归档接口执行完成。
+2015-12-09 10:08:46,910 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:105) - 归档接口执行完成。
+2015-12-09 10:13:51,776 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:105) - 归档接口执行完成。
+2015-12-09 10:21:00,438 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:105) - 归档接口执行完成。
+2015-12-09 14:06:58,200 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:107) - 归档接口执行完成。
+2015-12-09 14:10:12,905 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:107) - 归档接口执行完成。
+2015-12-09 15:23:22,276 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:107) - 归档接口执行完成。
+2015-12-09 15:32:11,207 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:107) - 归档接口执行完成。
+2015-12-09 16:18:22,528 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:107) - 归档接口执行完成。
+2015-12-09 16:21:17,425 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:107) - 归档接口执行完成。
+2015-12-09 16:47:49,165 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:107) - 归档接口执行完成。
+2015-12-10 09:48:20,594 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:107) - 归档接口执行完成。
+2015-12-10 10:16:35,432 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:107) - 归档接口执行完成。
+2015-12-10 10:40:36,055 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:107) - 归档接口执行完成。
+2015-12-10 11:36:32,302 [ERROR] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:89) - 
+2015-12-10 11:37:30,456 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:89) - 
+2015-12-10 14:07:29,681 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:111) - 归档接口执行完成。
+2015-12-10 14:13:03,478 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:110) - 归档接口执行完成。
+2015-12-10 14:18:30,152 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:110) - 归档接口执行完成。
+2015-12-10 14:25:24,700 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:111) - 归档接口执行完成。
+2015-12-10 14:36:44,553 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:111) - 归档接口执行完成。
+2015-12-10 14:42:23,030 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:112) - 归档接口执行完成。
+2015-12-10 14:51:30,134 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:112) - 归档接口执行完成。
+2015-12-10 14:54:06,530 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:112) - 归档接口执行完成。
+2015-12-10 15:06:21,918 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:112) - 归档接口执行完成。
+2015-12-10 15:09:20,677 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:110) - 归档接口执行完成。
+2015-12-10 15:11:33,445 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:110) - 归档接口执行完成。
+2015-12-10 15:37:06,699 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:110) - 归档接口执行完成。
+2015-12-10 15:44:32,139 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:110) - 归档接口执行完成。
+2015-12-10 16:18:10,685 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:110) - 归档接口执行完成。
+2015-12-10 16:32:32,926 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:110) - 归档接口执行完成。
+2015-12-10 17:03:49,744 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:110) - 归档接口执行完成。
+2015-12-11 15:24:58,447 [ERROR] com.ams.interfacewithoa.archive.jdbc.ConnectionManager.getConnection(ConnectionManager.java:40) - 获取数据库连接出错：Io 异常: The Network Adapter could not establish the connection
+2015-12-11 15:24:58,451 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:111) - 归档接口执行完成。
+2015-12-11 16:27:24,654 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:94) - 归档接口执行完成。
+2015-12-11 16:30:43,016 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:93) - 归档接口执行完成。
+2015-12-11 16:37:14,660 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:103) - 归档接口执行完成。
+2015-12-11 16:59:16,816 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:93) - 归档接口执行完成。
+2015-12-11 17:13:40,170 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:85) - 归档接口执行完成。
+2015-12-11 17:14:15,683 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:85) - 归档接口执行完成。
+2015-12-11 17:14:33,727 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:85) - 归档接口执行完成。
+2015-12-11 17:15:02,054 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:85) - 归档接口执行完成。
+2015-12-17 16:35:44,060 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 16:36:05,134 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查一下
+2015-12-17 16:36:05,816 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 16:40:57,111 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查一下
+2015-12-17 16:40:57,762 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 16:41:43,074 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查一下
+2015-12-17 16:41:43,774 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 16:42:27,306 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查一下
+2015-12-17 16:42:28,085 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 16:43:04,560 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查一下
+2015-12-17 16:43:05,299 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 16:48:01,801 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查一下
+2015-12-17 16:48:02,691 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 16:48:27,664 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查一下
+2015-12-17 16:48:28,563 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 16:48:45,000 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查一下
+2015-12-17 16:48:45,889 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 16:49:06,105 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查一下
+2015-12-17 16:49:07,045 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 16:49:20,531 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查一下
+2015-12-17 16:49:21,514 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 16:49:45,016 [ERROR] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查一下
+2015-12-17 16:49:45,862 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 16:54:52,015 [ERROR] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查一下
+2015-12-17 16:54:52,808 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 17:04:39,177 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1CB60000','2015-12-17 17:04:39','data/0001/2005_1/0.2005.01.002.pdf','0.2005.01.002.pdf','8A3227A95189CFC7015189CFC7FD0001','1' ,493796)
+2015-12-17 17:04:39,196 [ERROR] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查DFile
+2015-12-17 17:04:39,238 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1D310001','2015-12-17 17:04:39','data/0001/2005_1/0.2005.01.004.pdf','0.2005.01.004.pdf','8A3227A95189CFC7015189CFC7FD0003','1' ,304489)
+2015-12-17 17:04:39,278 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1D5A0002','2015-12-17 17:04:39','data/0001/2005_1/0.2005.01.005.pdf','0.2005.01.005.pdf','8A3227A95189CFC7015189CFC7FD0004','1' ,311254)
+2015-12-17 17:04:39,319 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1D820003','2015-12-17 17:04:39','data/0001/2005_1/0.2005.01.006.pdf','0.2005.01.006.pdf','8A3227A95189CFC7015189CFC7FD0005','1' ,343701)
+2015-12-17 17:04:39,378 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1DA90004','2015-12-17 17:04:39','data/0001/2005_1/0.2005.01.007.pdf','0.2005.01.007.pdf','8A3227A95189CFC7015189CFC7FD0006','1' ,671851)
+2015-12-17 17:04:39,418 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1DE50005','2015-12-17 17:04:39','data/0001/2005_1/0.2005.03.001.pdf','0.2005.03.001.pdf','8A3227A95189CFC7015189CFC7FD0007','1' ,4525574)
+2015-12-17 17:04:39,480 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1E200006','2015-12-17 17:04:39','data/0001/2005_1/0.2005.03.003.pdf','0.2005.03.003.pdf','8A3227A95189CFC7015189CFC7FD0009','1' ,1948530)
+2015-12-17 17:04:39,521 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1E4D0007','2015-12-17 17:04:39','data/0001/2005_1/0.2005.03.004.pdf','0.2005.03.004.pdf','8A3227A95189CFC7015189CFC7FD0010','1' ,2535048)
+2015-12-17 17:04:39,559 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1E730008','2015-12-17 17:04:39','data/0001/2005_1/0.2005.03.005.pdf','0.2005.03.005.pdf','8A3227A95189CFC7015189CFC7FD0011','1' ,3713846)
+2015-12-17 17:04:39,602 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1E990009','2015-12-17 17:04:39','data/0001/2005_1/0.2005.04.001.pdf','0.2005.04.001.pdf','8A3227A95189CFC7015189CFC7FD0012','1' ,3797020)
+2015-12-17 17:04:39,643 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1EC5000A','2015-12-17 17:04:39','data/0001/2005_1/0.2005.04.002.pdf','0.2005.04.002.pdf','8A3227A95189CFC7015189CFC7FD0013','1' ,4402810)
+2015-12-17 17:04:39,679 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1EEB000B','2015-12-17 17:04:39','data/0001/2005_1/0.2005.04.003.pdf','0.2005.04.003.pdf','8A3227A95189CFC7015189CFC7FD0014','1' ,595016)
+2015-12-17 17:04:39,717 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1F0F000C','2015-12-17 17:04:39','data/0001/2005_1/0.2005.04.004.pdf','0.2005.04.004.pdf','8A3227A95189CFC7015189CFC7FD0015','1' ,820048)
+2015-12-17 17:04:39,755 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1F36000D','2015-12-17 17:04:39','data/0001/2005_1/0.2005.04.005.pdf','0.2005.04.005.pdf','8A3227A95189CFC7015189CFC7FD0016','1' ,6417879)
+2015-12-17 17:04:39,791 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1F5A000E','2015-12-17 17:04:39','data/0001/2005_1/0.2005.07.001.pdf','0.2005.07.001.pdf','8A3227A95189CFC7015189CFC7FD0017','1' ,531726)
+2015-12-17 17:04:39,832 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1F81000F','2015-12-17 17:04:39','data/0001/2005_1/0.2005.07.002.pdf','0.2005.07.002.pdf','8A3227A95189CFC7015189CFC7FD0018','1' ,417020)
+2015-12-17 17:04:39,871 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1FA90010','2015-12-17 17:04:39','data/0001/2005_1/0.2005.07.003.pdf','0.2005.07.003.pdf','8A3227A95189CFC7015189CFC7FD0019','1' ,2938297)
+2015-12-17 17:04:39,908 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1FD00011','2015-12-17 17:04:39','data/0001/2005_1/0.2005.07.004.pdf','0.2005.07.004.pdf','8A3227A95189CFC7015189CFC7FD0020','1' ,1300639)
+2015-12-17 17:04:39,945 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F1FF40012','2015-12-17 17:04:39','data/0001/2005_1/0.2005.07.005.pdf','0.2005.07.005.pdf','8A3227A95189CFC7015189CFC7FD0021','1' ,2875693)
+2015-12-17 17:04:39,982 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F20180013','2015-12-17 17:04:39','data/0001/2005_1/0.2005.07.006.pdf','0.2005.07.006.pdf','8A3227A95189CFC7015189CFC7FD0022','1' ,1845147)
+2015-12-17 17:04:40,022 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2F1B0151AF2F20400014','2015-12-17 17:04:40','data/0001/2005_1/0.2005.01.001.pdf','0.2005.01.001.pdf','8A3227A95189CFC7015189CFC7FD0000','1' ,974692)
+2015-12-17 17:04:40,037 [INFO ] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:83) - 归档接口执行完成。
+2015-12-17 17:05:27,497 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:156) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF2FD80151AF2FD9760000','2015-12-17 17:05:27','data/0001/2005_1/0.2005.01.002.pdf','0.2005.01.002.pdf','8A3227A95189CFC7015189CFC7FD0001','1' ,493796)
+2015-12-17 17:05:27,514 [ERROR] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:55) - 有keyword为空,检查DFile
+2015-12-17 17:29:09,150 [INFO ] com.ams.interfacewithoa.archive.dao.impl.RecordDaoImpl.saveSql(RecordDaoImpl.java:163) - insert into d_efile18_0001 (syscode,createtime,filepath,filename,psyscode,filetype,filesize) values( '297E9C8C51AF45890151AF458AD00000','2015-12-17 17:29:09','data/0001/2005_1/0.2005.01.002.pdf','0.2005.01.002.pdf','8A3227A95189CFC7015189CFC7FD0001','1' ,493796)
+2015-12-17 17:29:09,167 [ERROR] com.ams.interfacewithoa.archive.service.ArcService.main(ArcService.java:57) - 有keyword为空,检查DFile
